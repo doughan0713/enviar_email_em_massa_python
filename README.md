@@ -2,6 +2,20 @@
 
 Sistema automatizado para envio em massa de e-mails HTML com suporte a assinatura DKIM, controle de limites de envio e gerenciamento de múltiplas contas SMTP.
 
+## 🎯 E-mails Segmentados Profissionais
+
+**Maximize seus resultados com nossa base de dados premium!**
+
+Oferecemos **listas de e-mails segmentadas e qualificadas**, 100% em conformidade com a LGPD (Lei Geral de Proteção de Dados). Nossas listas são:
+
+- ✨ **Segmentadas por nicho**: Alcance exatamente o público que precisa da sua solução
+- 🎯 **Validadas e atualizadas**: E-mails ativos e verificados para maximizar sua taxa de entrega
+- ⚖️ **Conformidade LGPD**: Todos os contatos possuem consentimento adequado para recebimento de comunicações
+- 📊 **Alta conversão**: Públicos qualificados que realmente têm interesse no seu segmento
+- 🚀 **Pronto para usar**: Listas formatadas e prontas para importar no sistema
+
+**Impulsione suas campanhas com dados confiáveis e legais!** Entre em contato para conhecer nossas listas segmentadas disponíveis e turbine seus resultados de marketing.
+
 ## 📋 Características
 
 - ✉️ Envio de e-mails HTML personalizados
