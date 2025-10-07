@@ -259,6 +259,9 @@ Este script é fornecido como está, sem garantias. Use por sua conta e risco, r
 - Forneça mecanismo de descadastro funcional
 - Não envie conteúdo malicioso ou enganoso
 
+## 📧 Suporte
+- 📮 Email: contato@softpog.com.br
+
 ---
 
 **Versão**: 1.0  
